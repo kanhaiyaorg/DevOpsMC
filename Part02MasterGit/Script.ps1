@@ -1,5 +1,5 @@
-$scratch = 'D:\scratch'
-$devopsmc = 'C:\Users\john\OneDrive\projects\GIT\DevOpsMC'
+$scratch = 'C:\Scratch'
+$devopsmc = 'C:\Users\kansing\Desktop\Kanhaiya\VSCodeWorkspace\DevOpsMC'
 
 #Check version
 git --version
