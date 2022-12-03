@@ -265,6 +265,8 @@ git remote -v
 
 #Add it as the remote origin. Origin is just a name but common standard
 git remote add origin https://github.com/johnthebrit/gitplay1
+
+git remote add origin https://github.com/kanhaiyaorg/DevOpsMC.git
 #git branch -M main      # RENAMES the branch from master to main
 
 git remote -v
